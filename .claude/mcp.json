@@ -1,0 +1,12 @@
+﻿{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": ["obsidian-notes-mcp"],
+      "env": {
+        "OBSIDIAN_API_KEY": "7f844d31e5f1ba9837b1284aaefa435cf2b3f1729709366d3db6244efedede88",
+        "OBSIDIAN_REJECT_UNAUTHORIZED": "false"
+      }
+    }
+  }
+}
